@@ -1,0 +1,16 @@
+{
+  "compilerOptions": {
+    "module": "ESNext",
+    "target": "es6",
+    "sourceMap": true,
+    "declaration": true,
+    "jsx": "react",
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "allowJs": true
+  },
+  "exclude": [
+    "node_modules"
+  ]
+}
+
